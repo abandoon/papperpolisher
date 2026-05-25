@@ -48,7 +48,7 @@ paper_polisher/
 
 1. 在你的 Trae 项目根目录下创建 `.trae/skills/` 文件夹（如果不存在）。
 2. 将 `paper_polisher` 文件夹整体放入 `.trae/skills/`。
-3. 在 Trae 的 AI 聊天框中输入：`使用 paper_polisher 润色我的论文，目标是 [CVPR/TPAMI/Elsevier]`。
+3. 在 Trae 的 AI 聊天框中输入：`使用 paper_polisher 润色/翻译我的论文，目标期刊是 CVPR/TPAMI/Elsevier/其他`。
 
 ## 🛡️ 安全与隐私
 
